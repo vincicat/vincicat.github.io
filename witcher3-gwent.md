@@ -11,3 +11,10 @@ permalink: /witcher3-gwent/
 })()
 
 </script>
+<style>
+.gist .gist-file { border: none; }
+.gist .gist-data { 
+    border: none;
+    background-color: transparent;
+}
+</style>
